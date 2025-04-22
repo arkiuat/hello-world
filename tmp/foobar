@@ -3,3 +3,8 @@ This file exists only to be modified.
 That is its purpose.
 
 So now I have to modify it. I've got to add this line.
+
+I guess if I want different commit message for each individual file, I have to do
+the local commits one file at a time. But that makes sense. I can do a bunch of 
+commits to my local git repo without pushing them, and then push all those commits
+at once. I guess that's okay.
